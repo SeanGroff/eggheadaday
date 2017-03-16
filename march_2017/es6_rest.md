@@ -25,8 +25,9 @@
     console.log(arguments); // { }
 
     // Rest parameters are litterally "The rest of the parameters"
-    console.log(name, theRestOfPersonalInfo);
-    console.log(name, theRestOfPersonalInfo[1]); // 123 Main St. Chicago, IL 87654
+    console.log(name, theRestOfPersonalInfo); // Output:
+    // 'Bob Dole', ['555-555-1234', '123 Main St. Chicago, IL 87654','@bobdole']
+    console.log(name, theRestOfPersonalInfo[1]); // 'Bob Dole' '123 Main St. Chicago, IL 87654'
   }
 
   // Notice in the function declartion I have one named parameter 
