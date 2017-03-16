@@ -1,4 +1,4 @@
-# [const declarations in es6 (ES2015)](https://egghead.io/lessons/ecmascript-6-const-declarations-in-es6-es2015?course=learn-es6-ecmascript-2015)
+## [const declarations in es6 (ES2015)](https://egghead.io/lessons/ecmascript-6-const-declarations-in-es6-es2015?course=learn-es6-ecmascript-2015)
 
 ### Example
 ```javascript
