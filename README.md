@@ -7,6 +7,6 @@
 
 ##### Note: Click the tweet share button from the [egghead.io](egghead.io) lesson to easily tweet about the lesson.
 
-##### Note: Use the templates in the templates directory to save time. Embed your tweet into the template. Click the tweet options menu, select embed tweet, copy the provided code. Paste it into your post.
+##### Note: Use the templates in the templates directory to save time. Embed your tweet into the template. Click the tweet options menu, select embed tweet, copy the provided code. Paste it into your post and strip out the script tag.
 
 ### Contributions are encouraged to better this project!
