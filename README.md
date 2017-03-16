@@ -7,7 +7,7 @@
 
 ##### Note: Click the tweet share button from the [egghead.io](egghead.io) lesson to easily tweet about the lesson.
 
-##### Note: Use the templates in the templates directory to save time. Embed your tweet into the template. Click the tweet options menu, select embed tweet, copy the provided code. Paste it into your post and strip out the script tag.
+##### Note: Use the templates in the templates directory to save time. Embed your tweet into the template. Click the tweet options menu, select embed tweet, copy the provided code. Paste it into your post and strip out the script tag. DONT FORGET TO ADD #eggheadaday to the tweet.
 
 ### Contributions are encouraged to better this project!
 
@@ -52,7 +52,7 @@
 
 
 ### Tweet
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="es" dir="ltr">ES6 Rest Parameters - js Video Tutorial <a href="https://twitter.com/hashtag/pro?src=hash">#pro</a> <a href="https://twitter.com/eggheadio">@eggheadio</a>: <a href="https://t.co/OyVWzYccBp">https://t.co/OyVWzYccBp</a></p>&mdash; Sean Groff (@SeanG816) <a href="https://twitter.com/SeanG816/status/842433675698569219">March 16, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr">ES6 Rest Parameters - js Video Tutorial <a href="https://twitter.com/hashtag/pro?src=hash">#pro</a> <a href="https://twitter.com/eggheadio">@eggheadio</a>: <a href="https://t.co/OyVWzYccBp">https://t.co/OyVWzYccBp</a> <a href="https://twitter.com/hashtag/eggheadaday?src=hash">#eggheadaday</a> <a href="https://twitter.com/hashtag/js?src=hash">#js</a></p>&mdash; Sean Groff (@SeanG816) <a href="https://twitter.com/SeanG816/status/842435671621042177">March 16, 2017</a></blockquote>
 
 ### Github Contributor
 [@sgroff04](https://github.com/sgroff04) :koala:

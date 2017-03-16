@@ -37,7 +37,7 @@
 
 
 ### Tweet
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="es" dir="ltr">ES6 Rest Parameters - js Video Tutorial <a href="https://twitter.com/hashtag/pro?src=hash">#pro</a> <a href="https://twitter.com/eggheadio">@eggheadio</a>: <a href="https://t.co/OyVWzYccBp">https://t.co/OyVWzYccBp</a></p>&mdash; Sean Groff (@SeanG816) <a href="https://twitter.com/SeanG816/status/842433675698569219">March 16, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr">ES6 Rest Parameters - js Video Tutorial <a href="https://twitter.com/hashtag/pro?src=hash">#pro</a> <a href="https://twitter.com/eggheadio">@eggheadio</a>: <a href="https://t.co/OyVWzYccBp">https://t.co/OyVWzYccBp</a> <a href="https://twitter.com/hashtag/eggheadaday?src=hash">#eggheadaday</a> <a href="https://twitter.com/hashtag/js?src=hash">#js</a></p>&mdash; Sean Groff (@SeanG816) <a href="https://twitter.com/SeanG816/status/842435671621042177">March 16, 2017</a></blockquote>
 
 ### Github Contributor
 [@sgroff04](https://github.com/sgroff04) :koala:
