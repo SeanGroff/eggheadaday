@@ -56,7 +56,7 @@
 <blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr">ES6 Rest Parameters - js Video Tutorial <a href="https://twitter.com/hashtag/pro?src=hash">#pro</a> <a href="https://twitter.com/eggheadio">@eggheadio</a>: <a href="https://t.co/OyVWzYccBp">https://t.co/OyVWzYccBp</a> <a href="https://twitter.com/hashtag/eggheadaday?src=hash">#eggheadaday</a> <a href="https://twitter.com/hashtag/js?src=hash">#js</a></p>&mdash; Sean Groff (@_SeanGroff) <a href="https://twitter.com/_SeanGroff/status/842435671621042177">March 16, 2017</a></blockquote>
 
 ### Github Contributor
-[@sgroff04](https://github.com/sgroff04) :koala:
+[@SeanGroff](https://github.com/SeanGroff) :koala:
 
 ##### Date - 03/16/2017
 ___
@@ -121,7 +121,7 @@ const d = new Promise((resolve, reject) => {
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Promises with ES6 - js Video Tutorial <a href="https://twitter.com/hashtag/free?src=hash">#free</a> <a href="https://twitter.com/eggheadio">@eggheadio</a>: <a href="https://t.co/SpIvnk4UAq">https://t.co/SpIvnk4UAq</a><a href="https://twitter.com/hashtag/eggheadADay?src=hash">#eggheadADay</a> <a href="https://twitter.com/hashtag/js?src=hash">#js</a></p>&mdash; Sean Groff (@_SeanGroff) <a href="https://twitter.com/_SeanGroff/status/842757415695278080">March 17, 2017</a></blockquote>
 
 ### Github Contributor
-[@sgroff04](https://github.com/sgroff04) :koala:
+[@SeanGroff](https://github.com/SeanGroff) :koala:
 
 ##### Date - 03/17/2017
 ___
@@ -146,7 +146,7 @@ This will recursively search everything in the js directory and return all insta
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Search the contents of files using grep - otherjs Video Tutorial <a href="https://twitter.com/hashtag/free?src=hash">#free</a> <a href="https://twitter.com/eggheadio">@eggheadio</a>: <a href="https://t.co/BAbCQcnM09">https://t.co/BAbCQcnM09</a><br>by: <a href="https://twitter.com/brindelle">@brindelle</a> <a href="https://twitter.com/hashtag/eggheadADay?src=hash">#eggheadADay</a> <a href="https://twitter.com/hashtag/grep?src=hash">#grep</a></p>&mdash; Sean Groff (@_SeanGroff) <a href="https://twitter.com/_SeanGroff/status/843873498862968833">March 20, 2017</a></blockquote>
 
 ### Github Contributor
-[@sgroff04](https://github.com/sgroff04) :koala:
+[@SeanGroff](https://github.com/SeanGroff) :koala:
 
 ##### Date - 03/20/2017
 ___
@@ -192,7 +192,7 @@ export class SimpleFormComponent implements OnInit {
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Manage Angular 2 Elements with Events and Refs - Video Tutorial <a href="https://twitter.com/hashtag/free?src=hash">#free</a> <a href="https://twitter.com/eggheadio">@eggheadio</a>: <a href="https://t.co/xDWGJLdWc9">https://t.co/xDWGJLdWc9</a><br>By: <a href="https://twitter.com/johnlindquist">@johnlindquist</a> <a href="https://twitter.com/hashtag/eggheadADay?src=hash">#eggheadADay</a></p>&mdash; Sean Groff (@_SeanGroff) <a href="https://twitter.com/_SeanGroff/status/844935679012474880">March 23, 2017</a></blockquote>
 
 ### Github Contributor
-[@sgroff04](https://github.com/sgroff04) :koala:
+[@SeanGroff](https://github.com/SeanGroff) :koala:
 
 ##### Date - 03/23/2017
 ___
@@ -215,7 +215,7 @@ From here you can easily wrap the badge in a markdown link linking to your build
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Adding badges to your README - js Video Tutorial <a href="https://twitter.com/hashtag/free?src=hash">#free</a> <a href="https://twitter.com/eggheadio">@eggheadio</a>: <a href="https://t.co/1NOdyhKUVT">https://t.co/1NOdyhKUVT</a><br>Now I know 🤘<br>By: <a href="https://twitter.com/kentcdodds">@kentcdodds</a> <a href="https://twitter.com/hashtag/eggheadADay?src=hash">#eggheadADay</a></p>&mdash; Sean Groff (@_SeanGroff) <a href="https://twitter.com/_SeanGroff/status/845293051539062786">March 24, 2017</a></blockquote>
 
 ### Github Contributor
-[@sgroff04](https://github.com/sgroff04) :koala:
+[@SeanGroff](https://github.com/SeanGroff) :koala:
 
 ##### Date - 03/24/2017
 ___
@@ -260,7 +260,7 @@ foo.subscribe((x) => {
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">GREAT EXPLANATION!<br>Observables are almost like Functions: rx Tutorial <a href="https://twitter.com/hashtag/pro?src=hash">#pro</a> <a href="https://twitter.com/eggheadio">@eggheadio</a>: <a href="https://t.co/vhNyLhtoRU">https://t.co/vhNyLhtoRU</a><br>By: <a href="https://twitter.com/andrestaltz">@andrestaltz</a> <a href="https://twitter.com/hashtag/eggheadADay?src=hash">#eggheadADay</a></p>&mdash; Sean Groff (@_SeanGroff) <a href="https://twitter.com/_SeanGroff/status/846375330415869954">March 27, 2017</a></blockquote>
 
 ### Github Contributor
-[@sgroff04](https://github.com/sgroff04) :koala:
+[@SeanGroff](https://github.com/SeanGroff) :koala:
 
 ##### Date - 03/27/2017
 ___
@@ -320,7 +320,7 @@ const subscription = clicks.subscribe(
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Introducing the Observable - js Video Tutorial <a href="https://twitter.com/hashtag/free?src=hash">#free</a> <a href="https://twitter.com/eggheadio">@eggheadio</a>: <a href="https://t.co/OxxBAKtdCv">https://t.co/OxxBAKtdCv</a><br>By: <a href="https://twitter.com/jhusain">@jhusain</a> <a href="https://twitter.com/hashtag/eggheadADay?src=hash">#eggheadADay</a> <a href="https://twitter.com/hashtag/RxJs?src=hash">#RxJs</a><br>Observables are 🔥‼️</p>&mdash; Sean Groff (@_SeanGroff) <a href="https://twitter.com/_SeanGroff/status/846751030138327040">March 28, 2017</a></blockquote>
 
 ### Github Contributor
-[@sgroff04](https://github.com/sgroff04) :koala:
+[@SeanGroff](https://github.com/SeanGroff) :koala:
 
 ##### Date - 03/28/2017
 ___
