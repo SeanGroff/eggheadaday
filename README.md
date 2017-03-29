@@ -353,7 +353,7 @@ const subscription = clicks.subscribe((point) => {
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Using the map method with Observable - js Video Tutorial <a href="https://twitter.com/hashtag/free?src=hash">#free</a> <a href="https://twitter.com/eggheadio">@eggheadio</a>: <a href="https://t.co/9BVcF4J7Te">https://t.co/9BVcF4J7Te</a><br>By: <a href="https://twitter.com/jhusain">@jhusain</a> <a href="https://twitter.com/hashtag/eggheadADay?src=hash">#eggheadADay</a> 🗺️</p>&mdash; Sean Groff (@_SeanGroff) <a href="https://twitter.com/_SeanGroff/status/847106884582719488">March 29, 2017</a></blockquote>
 
 ### Github Contributor
-[@seangroff](https://github.com/seangroff) :koala:
+[@SeanGroff](https://github.com/SeanGroff) :koala:
 
 ##### Date - 03/29/2017
 ___
