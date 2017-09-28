@@ -24,7 +24,7 @@
     // Arrow functions cannot use the arguments keyword.
     console.log(arguments); // { }
 
-    // Rest parameters are litterally "The rest of the parameters"
+    // Rest parameters are literally "The rest of the parameters"
     console.log(name, theRestOfPersonalInfo); // Output:
     // 'Bob Dole', ['555-555-1234', '123 Main St. Chicago, IL 87654','@bobdole']
     console.log(name, theRestOfPersonalInfo[1]); // 'Bob Dole' '123 Main St. Chicago, IL 87654'
