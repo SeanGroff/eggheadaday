@@ -45,7 +45,7 @@
     console.log(name, theRestOfPersonalInfo[1]); // 'Bob Dole' '123 Main St. Chicago, IL 87654'
   }
 
-  // Notice in the function declartion I have one named parameter 
+  // Notice in the function declaration I have one named parameter 
   // then a Rest Parameter to grab the rest of values passed to this function.  
   personalInfo2('Bob Dole', '555-555-1234', '123 Main St. Chicago, IL 87654','@bobdole');
 })();
@@ -202,7 +202,7 @@ ___
 Badges provide a quick and easy way for anyone to see the status of your project on Github.
 
 Adding badges is extremely easy thanks to [shields.io](shields.io)
-From [shields.io](shields.io) select a badge you want to place in your readme markdown file and simply copy/paste the image url into image mardown.
+From [shields.io](shields.io) select a badge you want to place in your readme markdown file and simply copy/paste the image url into image markdown.
 ```
 ex. ![travis build](https://img.shields.io/travis/rust-lang/rust.svg)
 This gives you the badge seen below!
@@ -278,7 +278,7 @@ ___
 
 /* DOM Event Example */
 
-// DOM events are very similiar to Observables.
+// DOM events are very similar to Observables.
 const button = document.getElementById('btn');
 
 // Event handler
@@ -381,7 +381,7 @@ console.log(b); // -> 30
 
 b = 11 * a;
 console.log(b); // -> 44
-// b doesn't accumlate over time like an event stream, it's value is whatever it is when it's assigned a value
+// b doesn't accumulate over time like an event stream, it's value is whatever it is when it's assigned a value
 
 /* ********************************************************************************************************* */
 
@@ -486,7 +486,7 @@ const responseStream$ = requestStream$
     Rx.Observable.fromPromise(fetchEndpoint(url))
   );
 
-// Takes the responseStreaam Observable which is a list of users
+// Takes the responseStream Observable which is a list of users
 // and returns a random user from the Observable list.
 const randomUserStream$ = (responseStream) =>
   responseStream.map(user =>
@@ -619,7 +619,7 @@ const responseStream$ = requestOnRefreshStream$
     Rx.Observable.fromPromise(fetchEndpoint(url))
   );
 
-// Takes the responseStreaam Observable which is a list of users
+// Takes the responseStream Observable which is a list of users
 // and returns a random user from the Observable list.
 const randomUserStream$ = (responseStream) =>
   responseStream.map(user =>
@@ -781,7 +781,7 @@ ___
 ## [Create collections of panes using tmux windows](https://egghead.io/lessons/tools-create-collections-of-panes-using-tmux-windows)
 
 ### Example
-With tmux you can create seperate collections of panes. Maybe you want to create a collection for each project you're currently working on.
+With tmux you can create separate collections of panes. Maybe you want to create a collection for each project you're currently working on.
 #### How to create a new collection
 ```
 > prefix + c
